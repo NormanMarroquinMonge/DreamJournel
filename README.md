@@ -1,6 +1,6 @@
 # DreamJournal <img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/f5d62bbb-4b84-4b8f-a59e-22fa8bbdcc2c" alt="Dream Journal" width="100" height="100" style="vertical-align: middle;">
 
-___________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________
 The Dream Journal project is a functional application created using Android Studio. 
 Users of the application can add, save, and edit any journal entries of dreams the user has dreamt. 
 Another feature the application has is the ability to interpret a specific dream through the OpenAI integrated into the application. 
@@ -9,7 +9,7 @@ When done, the user taps on the generate button and the AI gives a general inter
 Kotlin and Java were both used to create the application. Kotlin was used to integrate the OpenAI’s API while Java was used to create the functional interface of the OpenAI. 
 _______________________________________________________________________________________________________________________________________________________________
 
-### 🤳 Screenshots
+## Screenshots
 
 <div style="overflow-x: auto;">
   <table>
@@ -21,5 +21,16 @@ ________________________________________________________________________________
     </tr>
   </table>
 </div>
+_______________________________________________________________________________________________________________________________________________________________
+
+## Information 
+- Android Studio Electric eel: Version 2022.1.1
+- Latest Build: 1.0
+- Java: Version 1.8
+
+**Important!**
+In order to use the intergrated OpenAI you need to create a person OpenAPI Key from the OpenAI Website.
+
+
 
 
