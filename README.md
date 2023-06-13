@@ -17,7 +17,7 @@ ________________________________________________________________________________
       <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/fa5d3ff9-af0d-4eff-8889-a440c69124e4" alt="Screenshot 1" style="max-width: 100%; height: auto;"></td>
       <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/4e889cc1-9976-4aab-a487-49cab295f385" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
       <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/4b2eada4-15af-48f5-9d11-994c4d366e35" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
-      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/12a1a613-a4aa-41b4-8584-bb585330aac2" alt="Screenshot 4" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/14d3648a-70a2-4241-8b4e-4738c42f0535" alt="Screenshot 4" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
 </div>
