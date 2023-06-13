@@ -21,7 +21,8 @@ ________________________________________________________________________________
     </tr>
   </table>
 </div>
-_______________________________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________________________________________________________________________________________________
 
 ## Information 
 - Android Studio Electric eel: Version 2022.1.1
@@ -29,7 +30,7 @@ ________________________________________________________________________________
 - Java: Version 1.8
 
 **Important!**
-In order to use the intergrated OpenAI you need to create a person OpenAPI Key from the <a href="https://platform.openai.com/account/api-keys" target="_blank">OpenAI website.</a>
+In order to use the intergrated OpenAI you need to create a personal OpenAPI Key from the <a href="https://platform.openai.com/account/api-keys" target="_blank">OpenAI website.</a>
 
 
 
