@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorHeading">#FFC107</color>color>
+
+    <color name="colorPrimary">#3399ff</color>
+    <color name="colorPrimaryDark">#156CAD</color>
+    <color name="colorAccent">#ededed</color>
+
+    <color name="orange">#007FFF</color>
+    <color name="green">#00bfa5</color>
+    <color name="pink">#fe104f</color>
+    <color name="Light_green">#99ff33</color>
+    <color name="dark_gray">#66000000</color>
+    <color name="dark_blue">#23283a</color>
+    <color name="dark_pink">#fe105d</color>
+    <color name="purple">#7c4dff</color>
+
+    <color name="ColorBottomCardStart">#003d80</color>
+    <color name="ColorBottomCardEnd">#0062cc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ColorToolBarStart">#006ee6</color>
+    <color name="ColorToolBarEnd">#00ffef</color>
+    <color name="TextColor">#1035AC</color>
+
+
+
+</resources>
