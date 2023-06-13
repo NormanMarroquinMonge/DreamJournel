@@ -14,7 +14,7 @@ ________________________________________________________________________________
 <div style="overflow-x: auto;">
   <table>
     <tr>
-      <td><img src="https://i.imgur.com/f5iVufE.png" alt="Screenshot 1" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/fa5d3ff9-af0d-4eff-8889-a440c69124e4" alt="Screenshot 1" style="max-width: 100%; height: auto;"></td>
       <td><img src="https://i.imgur.com/wmbqxUH.png" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
       <td><img src="https://i.imgur.com/Wm5q8vl.png" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
       <td><img src="https://i.imgur.com/x6r114B.png" alt="Screenshot 4" style="max-width: 100%; height: auto;"></td>
