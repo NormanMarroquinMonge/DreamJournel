@@ -29,7 +29,7 @@ ________________________________________________________________________________
 - Java: Version 1.8
 
 **Important!**
-In order to use the intergrated OpenAI you need to create a person OpenAPI Key from the OpenAI Website.
+In order to use the intergrated OpenAI you need to create a person OpenAPI Key from the <a href="https://platform.openai.com/account/api-keys" target="_blank">OpenAI website.</a>
 
 
 
